@@ -1,4 +1,4 @@
-![Header](./header.png)
+[![Header](./header.png)](https://chadmuro.com/)
 
 I'm a Frontend Developer living in Tokyo, Japan, born and raised in Hawaii. I am currently passionate about building JavaScript and React Apps using Hooks, Context API, Redux, Firebase, Sass, and Material-UI. When I'm not developing and building things, I enjoy writing blog articles, photography, basketball, and playing with my French Bulldog.
 
