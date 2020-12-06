@@ -8,7 +8,7 @@ I'm a Frontend Developer living in Tokyo, Japan, born and raised in Hawaii. I am
 - [Create a Customized Color Theme in Material-UI](https://medium.com/swlh/create-a-customized-color-theme-in-material-ui-7205163e541f)
 
 ### :computer: Projects
-- Japan Hoops :basketball:  *coming soon*
+- [Japan Hoops](https://japan-hoops.web.app/) :basketball:
 - [Tokyo Frenchies](https://tokyo-frenchies.web.app/) :dog:
 - [IpuGram](https://ipugram.web.app/) :camera:
 
