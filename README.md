@@ -15,6 +15,7 @@ I'm a Frontend Developer living in Tokyo, Japan, born and raised in Hawaii. I am
 - Learn Code, Teach Code :construction: *coming soon*
 
 ### :seedling: Currently Learning
+- Next.js
 - Typescript
 - Node.js, Express, MongoDB
 
