@@ -12,7 +12,7 @@ I'm a Frontend Developer living in Tokyo, Japan, born and raised in Hawaii. I am
 - [Japan Hoops](https://japan-hoops.web.app/) :basketball:
 - [Tokyo Frenchies](https://tokyo-frenchies.web.app/) :dog:
 - [IpuGram](https://ipugram.web.app/) :camera:
-- Learn Code, Teach Code :construction: *coming soon*
+- [Learn Code, Teach Code](https://learn-code-teach-code.vercel.app/) :school:
 
 ### :seedling: Currently Learning
 - Next.js
