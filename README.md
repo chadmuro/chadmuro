@@ -1,6 +1,6 @@
 [![Header](./header.png)](https://chadmuro.com/)
 
-I'm a Frontend Developer living in Tokyo, Japan, born and raised in Hawaii. My tech stack includes JavaScript, TypeScript, React, Redux, and Firebase. I am currently learning about Next.js and building JAMstack applications. When I'm not developing and building things, I enjoy writing blog articles, photography, basketball, and playing with my French Bulldog.
+I'm a Frontend Developer living in Tokyo, Japan, born and raised in Hawaii. My tech stack includes JavaScript, TypeScript, React, Next.js, Redux, and Firebase. I am currently learning about building JAMstack applications. When I'm not developing and building things, I enjoy writing blog articles, photography, basketball, and playing with my French Bulldog.
 
 ### :pencil: Blog Posts
 - [4 Things I Learned from Reading the React Hooks API](https://medium.com/javascript-in-plain-english/4-things-i-learned-from-reading-the-react-hooks-api-ad0d48374901)
@@ -15,7 +15,7 @@ I'm a Frontend Developer living in Tokyo, Japan, born and raised in Hawaii. My t
 - [Learn Code, Teach Code](https://learn-code-teach-code.vercel.app/) :school:
 
 ### :seedling: Currently Learning
-- Next.js
+- JAMStack
 - TDD (Jest and React Testing Library)
 - Node.js, Express, MongoDB
 
