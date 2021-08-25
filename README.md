@@ -16,7 +16,7 @@ I'm a Frontend Developer living in Tokyo, Japan, born and raised in Hawaii. My t
 
 ### :seedling: Currently Learning
 - JAMStack
-- TDD (Jest and React Testing Library)
+- Testing - Jest, React Testing Library, and Cypress
 - Node.js, Express, MongoDB
 
 ### :mailbox: Where To Find Me
