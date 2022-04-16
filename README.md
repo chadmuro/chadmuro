@@ -1,25 +1,23 @@
 [![Header](./header.png)](https://chadmuro.com/)
 
-I'm a Frontend Developer living in Tokyo, Japan, born and raised in Hawaii. My tech stack includes JavaScript, TypeScript, React, Next.js, Redux, and Firebase. I am currently learning about UX/UI Design with Figma and I am also attempting to build out my own backend using Node.js, Express, and MongoDB. When I'm not developing and building things, I enjoy writing blog articles, photography, basketball, and playing with my French Bulldog.
+I'm a Software Engineer currently living in Tokyo, Japan, and born and raised in Hawaii. I have professional experience using TypeScript, React, Next.js, JavaScript, and Node.js. My preferred tech stack at the moment includes TypeScript, Next.js, Prisma, PostgreSQL, and TailwindCSS. When I'm not developing and building things, I enjoy writing blog articles, photography, basketball, and playing with my French Bulldog.
 
-### :pencil: Blog Posts
-- [4 Things I Learned from Reading the React Hooks API](https://medium.com/javascript-in-plain-english/4-things-i-learned-from-reading-the-react-hooks-api-ad0d48374901)
-- [Doubly Linked Lists With JavaScript](https://medium.com/javascript-in-plain-english/doubly-linked-lists-with-javascript-9c20a9dc4fb3)
-- [Create a Customized Color Theme in Material-UI](https://medium.com/swlh/create-a-customized-color-theme-in-material-ui-7205163e541f)
-- [Build a Bouncing Basketball App with Anime.js](https://medium.com/javascript-in-plain-english/build-a-bouncing-basketball-app-with-anime-js-90eb5b4630d1)
+### ✏ Blog Posts
+- [10 Tips To Improve Your Technical Writing Skills](https://medium.com/better-programming/10-tips-to-improve-your-technical-writing-skills-78d98faaef36)
+- [What’s New in Material-UI Version 5](https://medium.com/javascript-in-plain-english/whats-new-in-material-ui-version-5-5ebfaea0eba6)
+- [My Journey to Become a Software Engineer in a Year of Self-Study](https://javascript.plainenglish.io/my-journey-to-become-a-software-engineer-in-a-year-of-self-study-5703cc08724a)
 
-### :computer: Projects
-- [Japan Hoops](https://japan-hoops.web.app/) :basketball:
-- [Tokyo Frenchies](https://tokyo-frenchies.web.app/) :dog:
-- [IpuGram](https://ipugram.web.app/) :camera:
-- [Learn Code, Teach Code](https://learn-code-teach-code.vercel.app/) :school:
+### 💻 Projects
+- [Japanese Lorem Ipsum](https://japanese-lorem-ipsum.vercel.app/) 🇯🇵
+- [IpuGram](https://ipugram.web.app/) 🐶
+- [Learn Code, Teach Code](https://learn-code-teach-code.vercel.app/) 📘
 
-### :seedling: Currently Learning
+### 🌱 Currently Learning
+- Svelte / SvelteKit
 - Testing - Jest, React Testing Library, and Cypress
-- Node.js, Express, MongoDB
-- UX/UI Design - Figma
+- React Native
 
-### :mailbox: Where To Find Me
+### 📫 Where To Find Me
 - [Website](https://chadmuro.com/)
 - [LinkedIn](https://www.linkedin.com/in/chadmuro/)
 - [Medium](https://chadmuro.medium.com/)
