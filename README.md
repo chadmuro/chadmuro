@@ -8,9 +8,10 @@ I'm a Software Engineer currently living in Tokyo, Japan, and born and raised in
 - [My Journey to Become a Software Engineer in a Year of Self-Study](https://javascript.plainenglish.io/my-journey-to-become-a-software-engineer-in-a-year-of-self-study-5703cc08724a)
 
 ### 💻 Projects
+- [NBA Pick'em](https://nba-pickem.vercel.app/) 🏀
 - [Japanese Lorem Ipsum](https://japanese-lorem-ipsum.vercel.app/) 🇯🇵
 - [IpuGram](https://ipugram.web.app/) 🐶
-- [Learn Code, Teach Code](https://learn-code-teach-code.vercel.app/) 📘
+- [AWS Exam Practice](https://aws-exam-practice.vercel.app/) ☁️
 
 ### 🌱 Currently Learning
 - Svelte / SvelteKit
