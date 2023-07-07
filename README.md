@@ -1,6 +1,6 @@
 [![Header](./header.png)](https://chadmuro.com/)
 
-I'm a Software Engineer currently living in Tokyo, Japan, and born and raised in Hawaii. I have professional experience using TypeScript, React, Next.js, JavaScript, and Node.js. My preferred tech stack at the moment includes TypeScript, Next.js, Prisma, PostgreSQL, and TailwindCSS. When I'm not developing and building things, I enjoy writing blog articles, photography, basketball, and playing with my French Bulldog.
+I'm a Software Engineer currently living in Tokyo, Japan, and born and raised in Hawaii. I have professional experience using TypeScript, React, Next.js, React Native, JavaScript, PHP, and Node.js. When I'm not developing and building things, I enjoy writing blog articles, photography, basketball, and playing with my French Bulldog.
 
 ### ✏ Blog Posts
 - [10 Tips To Improve Your Technical Writing Skills](https://medium.com/better-programming/10-tips-to-improve-your-technical-writing-skills-78d98faaef36)
@@ -8,15 +8,14 @@ I'm a Software Engineer currently living in Tokyo, Japan, and born and raised in
 - [My Journey to Become a Software Engineer in a Year of Self-Study](https://javascript.plainenglish.io/my-journey-to-become-a-software-engineer-in-a-year-of-self-study-5703cc08724a)
 
 ### 💻 Projects
-- [NBA Pick'em](https://nba-pickem.vercel.app/) 🏀
+- [Mainichi Habits](https://mainichi-habits.vercel.app/) 🟦
+- [NBA Hot Takes](https://nba-hottakes.vercel.app/) 🏀
 - [Japanese Lorem Ipsum](https://japanese-lorem-ipsum.vercel.app/) 🇯🇵
-- [IpuGram](https://ipugram.web.app/) 🐶
 - [AWS Exam Practice](https://aws-exam-practice.vercel.app/) ☁️
 
 ### 🌱 Currently Learning
 - Svelte / SvelteKit
-- Testing - Jest, React Testing Library, and Cypress
-- React Native
+- AWS
 
 ### 📫 Where To Find Me
 - [Website](https://chadmuro.com/)
