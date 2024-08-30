@@ -10,7 +10,7 @@ I'm a Software Engineer currently living in Tokyo, Japan, and born and raised in
 ### 💻 Projects
 - [Mainichi Habits](https://mainichi-habits.vercel.app/) 🟦
 - [JLPT N2 Study](https://jlpt-n2-study.framer.website/) 🇯🇵
-- [NBA Hot Takes](https://nba-hottakes.vercel.app/) 🏀
+- [NBA, Ranked](https://nbaranked.vercel.app/) 🏀
 - [AWS Exam Practice](https://aws-exam-practice.vercel.app/) ☁️
 
 ### 🌱 Currently Learning
